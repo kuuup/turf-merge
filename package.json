@@ -1,0 +1,25 @@
+{
+  "name": "turf-merge",
+  "version": "1.0.0",
+  "description": "Union list of GeoJSON features",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuuup/turf-merge.git"
+  },
+  "author": "Peter Kupietz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuuup/turf-merge/issues"
+  },
+  "homepage": "https://github.com/kuuup/turf-merge#readme",
+  "dependencies": {
+    "@turf/union": "^3.6.2"
+  },
+  "devDependencies": {
+    "jest-cli": "^17.0.3"
+  }
+}
